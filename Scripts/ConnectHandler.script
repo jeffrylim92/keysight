@@ -1,0 +1,6 @@
+﻿log "connecting to TutorialSUT......"
+wait 30 sec
+Connect "TutorialSUT"
+
+
+LogSuccess "Successfully connected SUT"

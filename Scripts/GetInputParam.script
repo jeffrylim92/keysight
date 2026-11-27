@@ -1,0 +1,2 @@
+﻿params param0
+Log "The input is " & param0
